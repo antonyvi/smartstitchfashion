@@ -1,0 +1,576 @@
+[27-Dec-2024 15:51:49 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/smartsti/public_html/devmind.co.in/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 /home/smartsti/public_html/devmind.co.in/wp-settings.php(335): require()
+#1 /home/smartsti/public_html/devmind.co.in/wp-config.php(98): require_once('/home/smartsti/...')
+#2 /home/smartsti/public_html/devmind.co.in/wp-load.php(50): require_once('/home/smartsti/...')
+#3 /home/smartsti/public_html/devmind.co.in/wp-blog-header.php(13): require_once('/home/smartsti/...')
+#4 /home/smartsti/public_html/devmind.co.in/index.php(17): require('/home/smartsti/...')
+#5 {main}
+  thrown in /home/smartsti/public_html/devmind.co.in/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[27-Dec-2024 15:57:54 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/smartsti/public_html/devmind.co.in/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 /home/smartsti/public_html/devmind.co.in/wp-settings.php(335): require()
+#1 /home/smartsti/public_html/devmind.co.in/wp-config.php(98): require_once('/home/smartsti/...')
+#2 /home/smartsti/public_html/devmind.co.in/wp-load.php(50): require_once('/home/smartsti/...')
+#3 /home/smartsti/public_html/devmind.co.in/wp-blog-header.php(13): require_once('/home/smartsti/...')
+#4 /home/smartsti/public_html/devmind.co.in/index.php(17): require('/home/smartsti/...')
+#5 {main}
+  thrown in /home/smartsti/public_html/devmind.co.in/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[27-Dec-2024 15:58:15 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/smartsti/public_html/devmind.co.in/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 /home/smartsti/public_html/devmind.co.in/wp-settings.php(335): require()
+#1 /home/smartsti/public_html/devmind.co.in/wp-config.php(98): require_once('/home/smartsti/...')
+#2 /home/smartsti/public_html/devmind.co.in/wp-load.php(50): require_once('/home/smartsti/...')
+#3 /home/smartsti/public_html/devmind.co.in/wp-blog-header.php(13): require_once('/home/smartsti/...')
+#4 /home/smartsti/public_html/devmind.co.in/index.php(17): require('/home/smartsti/...')
+#5 {main}
+  thrown in /home/smartsti/public_html/devmind.co.in/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[27-Dec-2024 15:59:58 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/smartsti/public_html/devmind.co.in/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 /home/smartsti/public_html/devmind.co.in/wp-settings.php(335): require()
+#1 /home/smartsti/public_html/devmind.co.in/wp-config.php(98): require_once('/home/smartsti/...')
+#2 /home/smartsti/public_html/devmind.co.in/wp-load.php(50): require_once('/home/smartsti/...')
+#3 /home/smartsti/public_html/devmind.co.in/wp-blog-header.php(13): require_once('/home/smartsti/...')
+#4 /home/smartsti/public_html/devmind.co.in/index.php(17): require('/home/smartsti/...')
+#5 {main}
+  thrown in /home/smartsti/public_html/devmind.co.in/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[27-Dec-2024 16:05:42 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/smartsti/public_html/devmind.co.in/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 /home/smartsti/public_html/devmind.co.in/wp-settings.php(335): require()
+#1 /home/smartsti/public_html/devmind.co.in/wp-config.php(98): require_once('/home/smartsti/...')
+#2 /home/smartsti/public_html/devmind.co.in/wp-load.php(50): require_once('/home/smartsti/...')
+#3 /home/smartsti/public_html/devmind.co.in/wp-blog-header.php(13): require_once('/home/smartsti/...')
+#4 /home/smartsti/public_html/devmind.co.in/index.php(17): require('/home/smartsti/...')
+#5 {main}
+  thrown in /home/smartsti/public_html/devmind.co.in/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[27-Dec-2024 16:06:56 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/smartsti/public_html/devmind.co.in/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 /home/smartsti/public_html/devmind.co.in/wp-settings.php(335): require()
+#1 /home/smartsti/public_html/devmind.co.in/wp-config.php(98): require_once('/home/smartsti/...')
+#2 /home/smartsti/public_html/devmind.co.in/wp-load.php(50): require_once('/home/smartsti/...')
+#3 /home/smartsti/public_html/devmind.co.in/wp-blog-header.php(13): require_once('/home/smartsti/...')
+#4 /home/smartsti/public_html/devmind.co.in/index.php(17): require('/home/smartsti/...')
+#5 {main}
+  thrown in /home/smartsti/public_html/devmind.co.in/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[27-Dec-2024 16:07:53 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/smartsti/public_html/devmind.co.in/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 /home/smartsti/public_html/devmind.co.in/wp-settings.php(335): require()
+#1 /home/smartsti/public_html/devmind.co.in/wp-config.php(98): require_once('/home/smartsti/...')
+#2 /home/smartsti/public_html/devmind.co.in/wp-load.php(50): require_once('/home/smartsti/...')
+#3 /home/smartsti/public_html/devmind.co.in/wp-blog-header.php(13): require_once('/home/smartsti/...')
+#4 /home/smartsti/public_html/devmind.co.in/index.php(17): require('/home/smartsti/...')
+#5 {main}
+  thrown in /home/smartsti/public_html/devmind.co.in/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[27-Dec-2024 16:10:00 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/smartsti/public_html/devmind.co.in/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 /home/smartsti/public_html/devmind.co.in/wp-settings.php(335): require()
+#1 /home/smartsti/public_html/devmind.co.in/wp-config.php(98): require_once('/home/smartsti/...')
+#2 /home/smartsti/public_html/devmind.co.in/wp-load.php(50): require_once('/home/smartsti/...')
+#3 /home/smartsti/public_html/devmind.co.in/wp-blog-header.php(13): require_once('/home/smartsti/...')
+#4 /home/smartsti/public_html/devmind.co.in/index.php(17): require('/home/smartsti/...')
+#5 {main}
+  thrown in /home/smartsti/public_html/devmind.co.in/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[27-Dec-2024 16:40:00 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/smartsti/public_html/devmind.co.in/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 /home/smartsti/public_html/devmind.co.in/wp-settings.php(335): require()
+#1 /home/smartsti/public_html/devmind.co.in/wp-config.php(98): require_once('/home/smartsti/...')
+#2 /home/smartsti/public_html/devmind.co.in/wp-load.php(50): require_once('/home/smartsti/...')
+#3 /home/smartsti/public_html/devmind.co.in/wp-blog-header.php(13): require_once('/home/smartsti/...')
+#4 /home/smartsti/public_html/devmind.co.in/index.php(17): require('/home/smartsti/...')
+#5 {main}
+  thrown in /home/smartsti/public_html/devmind.co.in/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[27-Dec-2024 16:40:06 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/smartsti/public_html/devmind.co.in/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 /home/smartsti/public_html/devmind.co.in/wp-settings.php(335): require()
+#1 /home/smartsti/public_html/devmind.co.in/wp-config.php(98): require_once('/home/smartsti/...')
+#2 /home/smartsti/public_html/devmind.co.in/wp-load.php(50): require_once('/home/smartsti/...')
+#3 /home/smartsti/public_html/devmind.co.in/wp-blog-header.php(13): require_once('/home/smartsti/...')
+#4 /home/smartsti/public_html/devmind.co.in/index.php(17): require('/home/smartsti/...')
+#5 {main}
+  thrown in /home/smartsti/public_html/devmind.co.in/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[27-Dec-2024 16:46:41 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/smartsti/public_html/devmind.co.in/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 /home/smartsti/public_html/devmind.co.in/wp-settings.php(335): require()
+#1 /home/smartsti/public_html/devmind.co.in/wp-config.php(98): require_once('/home/smartsti/...')
+#2 /home/smartsti/public_html/devmind.co.in/wp-load.php(50): require_once('/home/smartsti/...')
+#3 /home/smartsti/public_html/devmind.co.in/wp-blog-header.php(13): require_once('/home/smartsti/...')
+#4 /home/smartsti/public_html/devmind.co.in/index.php(17): require('/home/smartsti/...')
+#5 {main}
+  thrown in /home/smartsti/public_html/devmind.co.in/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[27-Dec-2024 22:16:06 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/smartsti/public_html/devmind.co.in/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 /home/smartsti/public_html/devmind.co.in/wp-settings.php(335): require()
+#1 /home/smartsti/public_html/devmind.co.in/wp-config.php(98): require_once('/home/smartsti/...')
+#2 /home/smartsti/public_html/devmind.co.in/wp-load.php(50): require_once('/home/smartsti/...')
+#3 /home/smartsti/public_html/devmind.co.in/wp-blog-header.php(13): require_once('/home/smartsti/...')
+#4 /home/smartsti/public_html/devmind.co.in/index.php(17): require('/home/smartsti/...')
+#5 {main}
+  thrown in /home/smartsti/public_html/devmind.co.in/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[28-Dec-2024 03:59:54 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/smartsti/public_html/devmind.co.in/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 /home/smartsti/public_html/devmind.co.in/wp-settings.php(335): require()
+#1 /home/smartsti/public_html/devmind.co.in/wp-config.php(98): require_once('/home/smartsti/...')
+#2 /home/smartsti/public_html/devmind.co.in/wp-load.php(50): require_once('/home/smartsti/...')
+#3 /home/smartsti/public_html/devmind.co.in/wp-blog-header.php(13): require_once('/home/smartsti/...')
+#4 /home/smartsti/public_html/devmind.co.in/index.php(17): require('/home/smartsti/...')
+#5 {main}
+  thrown in /home/smartsti/public_html/devmind.co.in/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[28-Dec-2024 03:59:57 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/smartsti/public_html/devmind.co.in/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 /home/smartsti/public_html/devmind.co.in/wp-settings.php(335): require()
+#1 /home/smartsti/public_html/devmind.co.in/wp-config.php(98): require_once('/home/smartsti/...')
+#2 /home/smartsti/public_html/devmind.co.in/wp-load.php(50): require_once('/home/smartsti/...')
+#3 /home/smartsti/public_html/devmind.co.in/wp-blog-header.php(13): require_once('/home/smartsti/...')
+#4 /home/smartsti/public_html/devmind.co.in/index.php(17): require('/home/smartsti/...')
+#5 {main}
+  thrown in /home/smartsti/public_html/devmind.co.in/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[28-Dec-2024 04:01:46 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/smartsti/public_html/devmind.co.in/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 /home/smartsti/public_html/devmind.co.in/wp-settings.php(335): require()
+#1 /home/smartsti/public_html/devmind.co.in/wp-config.php(98): require_once('/home/smartsti/...')
+#2 /home/smartsti/public_html/devmind.co.in/wp-load.php(50): require_once('/home/smartsti/...')
+#3 /home/smartsti/public_html/devmind.co.in/wp-blog-header.php(13): require_once('/home/smartsti/...')
+#4 /home/smartsti/public_html/devmind.co.in/index.php(17): require('/home/smartsti/...')
+#5 {main}
+  thrown in /home/smartsti/public_html/devmind.co.in/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[28-Dec-2024 04:05:51 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/smartsti/public_html/devmind.co.in/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 /home/smartsti/public_html/devmind.co.in/wp-settings.php(335): require()
+#1 /home/smartsti/public_html/devmind.co.in/wp-config.php(98): require_once('/home/smartsti/...')
+#2 /home/smartsti/public_html/devmind.co.in/wp-load.php(50): require_once('/home/smartsti/...')
+#3 /home/smartsti/public_html/devmind.co.in/wp-blog-header.php(13): require_once('/home/smartsti/...')
+#4 /home/smartsti/public_html/devmind.co.in/index.php(17): require('/home/smartsti/...')
+#5 {main}
+  thrown in /home/smartsti/public_html/devmind.co.in/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[28-Dec-2024 04:05:53 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/smartsti/public_html/devmind.co.in/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 /home/smartsti/public_html/devmind.co.in/wp-settings.php(335): require()
+#1 /home/smartsti/public_html/devmind.co.in/wp-config.php(98): require_once('/home/smartsti/...')
+#2 /home/smartsti/public_html/devmind.co.in/wp-load.php(50): require_once('/home/smartsti/...')
+#3 /home/smartsti/public_html/devmind.co.in/wp-blog-header.php(13): require_once('/home/smartsti/...')
+#4 /home/smartsti/public_html/devmind.co.in/index.php(17): require('/home/smartsti/...')
+#5 {main}
+  thrown in /home/smartsti/public_html/devmind.co.in/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[28-Dec-2024 04:09:45 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/smartsti/public_html/devmind.co.in/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 /home/smartsti/public_html/devmind.co.in/wp-settings.php(335): require()
+#1 /home/smartsti/public_html/devmind.co.in/wp-config.php(98): require_once('/home/smartsti/...')
+#2 /home/smartsti/public_html/devmind.co.in/wp-load.php(50): require_once('/home/smartsti/...')
+#3 /home/smartsti/public_html/devmind.co.in/wp-blog-header.php(13): require_once('/home/smartsti/...')
+#4 /home/smartsti/public_html/devmind.co.in/index.php(17): require('/home/smartsti/...')
+#5 {main}
+  thrown in /home/smartsti/public_html/devmind.co.in/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[28-Dec-2024 04:11:19 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/smartsti/public_html/devmind.co.in/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 /home/smartsti/public_html/devmind.co.in/wp-settings.php(335): require()
+#1 /home/smartsti/public_html/devmind.co.in/wp-config.php(98): require_once('/home/smartsti/...')
+#2 /home/smartsti/public_html/devmind.co.in/wp-load.php(50): require_once('/home/smartsti/...')
+#3 /home/smartsti/public_html/devmind.co.in/wp-blog-header.php(13): require_once('/home/smartsti/...')
+#4 /home/smartsti/public_html/devmind.co.in/index.php(17): require('/home/smartsti/...')
+#5 {main}
+  thrown in /home/smartsti/public_html/devmind.co.in/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[28-Dec-2024 04:11:39 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/smartsti/public_html/devmind.co.in/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 /home/smartsti/public_html/devmind.co.in/wp-settings.php(335): require()
+#1 /home/smartsti/public_html/devmind.co.in/wp-config.php(98): require_once('/home/smartsti/...')
+#2 /home/smartsti/public_html/devmind.co.in/wp-load.php(50): require_once('/home/smartsti/...')
+#3 /home/smartsti/public_html/devmind.co.in/wp-blog-header.php(13): require_once('/home/smartsti/...')
+#4 /home/smartsti/public_html/devmind.co.in/index.php(17): require('/home/smartsti/...')
+#5 {main}
+  thrown in /home/smartsti/public_html/devmind.co.in/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[28-Dec-2024 04:13:41 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/smartsti/public_html/devmind.co.in/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 /home/smartsti/public_html/devmind.co.in/wp-settings.php(335): require()
+#1 /home/smartsti/public_html/devmind.co.in/wp-config.php(98): require_once('/home/smartsti/...')
+#2 /home/smartsti/public_html/devmind.co.in/wp-load.php(50): require_once('/home/smartsti/...')
+#3 /home/smartsti/public_html/devmind.co.in/wp-blog-header.php(13): require_once('/home/smartsti/...')
+#4 /home/smartsti/public_html/devmind.co.in/index.php(17): require('/home/smartsti/...')
+#5 {main}
+  thrown in /home/smartsti/public_html/devmind.co.in/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[28-Dec-2024 04:13:45 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/smartsti/public_html/devmind.co.in/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 /home/smartsti/public_html/devmind.co.in/wp-settings.php(335): require()
+#1 /home/smartsti/public_html/devmind.co.in/wp-config.php(98): require_once('/home/smartsti/...')
+#2 /home/smartsti/public_html/devmind.co.in/wp-load.php(50): require_once('/home/smartsti/...')
+#3 /home/smartsti/public_html/devmind.co.in/wp-blog-header.php(13): require_once('/home/smartsti/...')
+#4 /home/smartsti/public_html/devmind.co.in/index.php(17): require('/home/smartsti/...')
+#5 {main}
+  thrown in /home/smartsti/public_html/devmind.co.in/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[28-Dec-2024 04:45:53 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/smartsti/public_html/devmind.co.in/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 /home/smartsti/public_html/devmind.co.in/wp-settings.php(335): require()
+#1 /home/smartsti/public_html/devmind.co.in/wp-config.php(98): require_once('/home/smartsti/...')
+#2 /home/smartsti/public_html/devmind.co.in/wp-load.php(50): require_once('/home/smartsti/...')
+#3 /home/smartsti/public_html/devmind.co.in/wp-blog-header.php(13): require_once('/home/smartsti/...')
+#4 /home/smartsti/public_html/devmind.co.in/index.php(17): require('/home/smartsti/...')
+#5 {main}
+  thrown in /home/smartsti/public_html/devmind.co.in/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[28-Dec-2024 04:45:55 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/smartsti/public_html/devmind.co.in/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 /home/smartsti/public_html/devmind.co.in/wp-settings.php(335): require()
+#1 /home/smartsti/public_html/devmind.co.in/wp-config.php(98): require_once('/home/smartsti/...')
+#2 /home/smartsti/public_html/devmind.co.in/wp-load.php(50): require_once('/home/smartsti/...')
+#3 /home/smartsti/public_html/devmind.co.in/wp-blog-header.php(13): require_once('/home/smartsti/...')
+#4 /home/smartsti/public_html/devmind.co.in/index.php(17): require('/home/smartsti/...')
+#5 {main}
+  thrown in /home/smartsti/public_html/devmind.co.in/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[28-Dec-2024 04:47:54 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/smartsti/public_html/devmind.co.in/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 /home/smartsti/public_html/devmind.co.in/wp-settings.php(335): require()
+#1 /home/smartsti/public_html/devmind.co.in/wp-config.php(98): require_once('/home/smartsti/...')
+#2 /home/smartsti/public_html/devmind.co.in/wp-load.php(50): require_once('/home/smartsti/...')
+#3 /home/smartsti/public_html/devmind.co.in/wp-blog-header.php(13): require_once('/home/smartsti/...')
+#4 /home/smartsti/public_html/devmind.co.in/index.php(17): require('/home/smartsti/...')
+#5 {main}
+  thrown in /home/smartsti/public_html/devmind.co.in/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[28-Dec-2024 07:39:34 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/smartsti/public_html/devmind.co.in/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 /home/smartsti/public_html/devmind.co.in/wp-settings.php(335): require()
+#1 /home/smartsti/public_html/devmind.co.in/wp-config.php(98): require_once('/home/smartsti/...')
+#2 /home/smartsti/public_html/devmind.co.in/wp-load.php(50): require_once('/home/smartsti/...')
+#3 /home/smartsti/public_html/devmind.co.in/wp-blog-header.php(13): require_once('/home/smartsti/...')
+#4 /home/smartsti/public_html/devmind.co.in/index.php(17): require('/home/smartsti/...')
+#5 {main}
+  thrown in /home/smartsti/public_html/devmind.co.in/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[28-Dec-2024 11:12:36 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/smartsti/public_html/devmind.co.in/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 /home/smartsti/public_html/devmind.co.in/wp-settings.php(335): require()
+#1 /home/smartsti/public_html/devmind.co.in/wp-config.php(98): require_once('/home/smartsti/...')
+#2 /home/smartsti/public_html/devmind.co.in/wp-load.php(50): require_once('/home/smartsti/...')
+#3 /home/smartsti/public_html/devmind.co.in/wp-blog-header.php(13): require_once('/home/smartsti/...')
+#4 /home/smartsti/public_html/devmind.co.in/index.php(17): require('/home/smartsti/...')
+#5 {main}
+  thrown in /home/smartsti/public_html/devmind.co.in/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[28-Dec-2024 11:12:36 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/smartsti/public_html/devmind.co.in/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 /home/smartsti/public_html/devmind.co.in/wp-settings.php(335): require()
+#1 /home/smartsti/public_html/devmind.co.in/wp-config.php(98): require_once('/home/smartsti/...')
+#2 /home/smartsti/public_html/devmind.co.in/wp-load.php(50): require_once('/home/smartsti/...')
+#3 /home/smartsti/public_html/devmind.co.in/wp-blog-header.php(13): require_once('/home/smartsti/...')
+#4 /home/smartsti/public_html/devmind.co.in/index.php(17): require('/home/smartsti/...')
+#5 {main}
+  thrown in /home/smartsti/public_html/devmind.co.in/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[28-Dec-2024 11:12:36 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/smartsti/public_html/devmind.co.in/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 /home/smartsti/public_html/devmind.co.in/wp-settings.php(335): require()
+#1 /home/smartsti/public_html/devmind.co.in/wp-config.php(98): require_once('/home/smartsti/...')
+#2 /home/smartsti/public_html/devmind.co.in/wp-load.php(50): require_once('/home/smartsti/...')
+#3 /home/smartsti/public_html/devmind.co.in/wp-blog-header.php(13): require_once('/home/smartsti/...')
+#4 /home/smartsti/public_html/devmind.co.in/index.php(17): require('/home/smartsti/...')
+#5 {main}
+  thrown in /home/smartsti/public_html/devmind.co.in/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[28-Dec-2024 11:12:36 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/smartsti/public_html/devmind.co.in/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 /home/smartsti/public_html/devmind.co.in/wp-settings.php(335): require()
+#1 /home/smartsti/public_html/devmind.co.in/wp-config.php(98): require_once('/home/smartsti/...')
+#2 /home/smartsti/public_html/devmind.co.in/wp-load.php(50): require_once('/home/smartsti/...')
+#3 /home/smartsti/public_html/devmind.co.in/wp-blog-header.php(13): require_once('/home/smartsti/...')
+#4 /home/smartsti/public_html/devmind.co.in/index.php(17): require('/home/smartsti/...')
+#5 {main}
+  thrown in /home/smartsti/public_html/devmind.co.in/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[28-Dec-2024 12:29:31 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/smartsti/public_html/devmind.co.in/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 /home/smartsti/public_html/devmind.co.in/wp-settings.php(335): require()
+#1 /home/smartsti/public_html/devmind.co.in/wp-config.php(98): require_once('/home/smartsti/...')
+#2 /home/smartsti/public_html/devmind.co.in/wp-load.php(50): require_once('/home/smartsti/...')
+#3 /home/smartsti/public_html/devmind.co.in/wp-blog-header.php(13): require_once('/home/smartsti/...')
+#4 /home/smartsti/public_html/devmind.co.in/index.php(17): require('/home/smartsti/...')
+#5 {main}
+  thrown in /home/smartsti/public_html/devmind.co.in/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[28-Dec-2024 13:08:56 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/smartsti/public_html/devmind.co.in/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 /home/smartsti/public_html/devmind.co.in/wp-settings.php(335): require()
+#1 /home/smartsti/public_html/devmind.co.in/wp-config.php(98): require_once('/home/smartsti/...')
+#2 /home/smartsti/public_html/devmind.co.in/wp-load.php(50): require_once('/home/smartsti/...')
+#3 /home/smartsti/public_html/devmind.co.in/wp-blog-header.php(13): require_once('/home/smartsti/...')
+#4 /home/smartsti/public_html/devmind.co.in/index.php(17): require('/home/smartsti/...')
+#5 {main}
+  thrown in /home/smartsti/public_html/devmind.co.in/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[28-Dec-2024 13:11:53 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/smartsti/public_html/devmind.co.in/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 /home/smartsti/public_html/devmind.co.in/wp-settings.php(335): require()
+#1 /home/smartsti/public_html/devmind.co.in/wp-config.php(98): require_once('/home/smartsti/...')
+#2 /home/smartsti/public_html/devmind.co.in/wp-load.php(50): require_once('/home/smartsti/...')
+#3 /home/smartsti/public_html/devmind.co.in/wp-blog-header.php(13): require_once('/home/smartsti/...')
+#4 /home/smartsti/public_html/devmind.co.in/index.php(17): require('/home/smartsti/...')
+#5 {main}
+  thrown in /home/smartsti/public_html/devmind.co.in/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[28-Dec-2024 16:04:01 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/smartsti/public_html/devmind.co.in/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 /home/smartsti/public_html/devmind.co.in/wp-settings.php(335): require()
+#1 /home/smartsti/public_html/devmind.co.in/wp-config.php(98): require_once('/home/smartsti/...')
+#2 /home/smartsti/public_html/devmind.co.in/wp-load.php(50): require_once('/home/smartsti/...')
+#3 /home/smartsti/public_html/devmind.co.in/wp-blog-header.php(13): require_once('/home/smartsti/...')
+#4 /home/smartsti/public_html/devmind.co.in/index.php(17): require('/home/smartsti/...')
+#5 {main}
+  thrown in /home/smartsti/public_html/devmind.co.in/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[28-Dec-2024 16:04:01 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/smartsti/public_html/devmind.co.in/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 /home/smartsti/public_html/devmind.co.in/wp-settings.php(335): require()
+#1 /home/smartsti/public_html/devmind.co.in/wp-config.php(98): require_once('/home/smartsti/...')
+#2 /home/smartsti/public_html/devmind.co.in/wp-load.php(50): require_once('/home/smartsti/...')
+#3 /home/smartsti/public_html/devmind.co.in/wp-blog-header.php(13): require_once('/home/smartsti/...')
+#4 /home/smartsti/public_html/devmind.co.in/index.php(17): require('/home/smartsti/...')
+#5 {main}
+  thrown in /home/smartsti/public_html/devmind.co.in/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[28-Dec-2024 16:04:43 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/smartsti/public_html/devmind.co.in/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 /home/smartsti/public_html/devmind.co.in/wp-settings.php(335): require()
+#1 /home/smartsti/public_html/devmind.co.in/wp-config.php(98): require_once('/home/smartsti/...')
+#2 /home/smartsti/public_html/devmind.co.in/wp-load.php(50): require_once('/home/smartsti/...')
+#3 /home/smartsti/public_html/devmind.co.in/wp-blog-header.php(13): require_once('/home/smartsti/...')
+#4 /home/smartsti/public_html/devmind.co.in/index.php(17): require('/home/smartsti/...')
+#5 {main}
+  thrown in /home/smartsti/public_html/devmind.co.in/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[28-Dec-2024 16:46:59 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/smartsti/public_html/devmind.co.in/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 /home/smartsti/public_html/devmind.co.in/wp-settings.php(335): require()
+#1 /home/smartsti/public_html/devmind.co.in/wp-config.php(98): require_once('/home/smartsti/...')
+#2 /home/smartsti/public_html/devmind.co.in/wp-load.php(50): require_once('/home/smartsti/...')
+#3 /home/smartsti/public_html/devmind.co.in/wp-blog-header.php(13): require_once('/home/smartsti/...')
+#4 /home/smartsti/public_html/devmind.co.in/index.php(17): require('/home/smartsti/...')
+#5 {main}
+  thrown in /home/smartsti/public_html/devmind.co.in/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[28-Dec-2024 16:54:46 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/smartsti/public_html/devmind.co.in/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 /home/smartsti/public_html/devmind.co.in/wp-settings.php(335): require()
+#1 /home/smartsti/public_html/devmind.co.in/wp-config.php(98): require_once('/home/smartsti/...')
+#2 /home/smartsti/public_html/devmind.co.in/wp-load.php(50): require_once('/home/smartsti/...')
+#3 /home/smartsti/public_html/devmind.co.in/wp-blog-header.php(13): require_once('/home/smartsti/...')
+#4 /home/smartsti/public_html/devmind.co.in/index.php(17): require('/home/smartsti/...')
+#5 {main}
+  thrown in /home/smartsti/public_html/devmind.co.in/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[28-Dec-2024 16:54:59 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/smartsti/public_html/devmind.co.in/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 /home/smartsti/public_html/devmind.co.in/wp-settings.php(335): require()
+#1 /home/smartsti/public_html/devmind.co.in/wp-config.php(98): require_once('/home/smartsti/...')
+#2 /home/smartsti/public_html/devmind.co.in/wp-load.php(50): require_once('/home/smartsti/...')
+#3 /home/smartsti/public_html/devmind.co.in/wp-blog-header.php(13): require_once('/home/smartsti/...')
+#4 /home/smartsti/public_html/devmind.co.in/index.php(17): require('/home/smartsti/...')
+#5 {main}
+  thrown in /home/smartsti/public_html/devmind.co.in/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[28-Dec-2024 16:54:59 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/smartsti/public_html/devmind.co.in/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 /home/smartsti/public_html/devmind.co.in/wp-settings.php(335): require()
+#1 /home/smartsti/public_html/devmind.co.in/wp-config.php(98): require_once('/home/smartsti/...')
+#2 /home/smartsti/public_html/devmind.co.in/wp-load.php(50): require_once('/home/smartsti/...')
+#3 /home/smartsti/public_html/devmind.co.in/wp-blog-header.php(13): require_once('/home/smartsti/...')
+#4 /home/smartsti/public_html/devmind.co.in/index.php(17): require('/home/smartsti/...')
+#5 {main}
+  thrown in /home/smartsti/public_html/devmind.co.in/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[28-Dec-2024 17:43:12 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/smartsti/public_html/devmind.co.in/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 /home/smartsti/public_html/devmind.co.in/wp-settings.php(335): require()
+#1 /home/smartsti/public_html/devmind.co.in/wp-config.php(98): require_once('/home/smartsti/...')
+#2 /home/smartsti/public_html/devmind.co.in/wp-load.php(50): require_once('/home/smartsti/...')
+#3 /home/smartsti/public_html/devmind.co.in/wp-blog-header.php(13): require_once('/home/smartsti/...')
+#4 /home/smartsti/public_html/devmind.co.in/index.php(17): require('/home/smartsti/...')
+#5 {main}
+  thrown in /home/smartsti/public_html/devmind.co.in/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[28-Dec-2024 17:45:39 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/smartsti/public_html/devmind.co.in/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 /home/smartsti/public_html/devmind.co.in/wp-settings.php(335): require()
+#1 /home/smartsti/public_html/devmind.co.in/wp-config.php(98): require_once('/home/smartsti/...')
+#2 /home/smartsti/public_html/devmind.co.in/wp-load.php(50): require_once('/home/smartsti/...')
+#3 /home/smartsti/public_html/devmind.co.in/wp-blog-header.php(13): require_once('/home/smartsti/...')
+#4 /home/smartsti/public_html/devmind.co.in/index.php(17): require('/home/smartsti/...')
+#5 {main}
+  thrown in /home/smartsti/public_html/devmind.co.in/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[28-Dec-2024 17:46:36 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/smartsti/public_html/devmind.co.in/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 /home/smartsti/public_html/devmind.co.in/wp-settings.php(335): require()
+#1 /home/smartsti/public_html/devmind.co.in/wp-config.php(98): require_once('/home/smartsti/...')
+#2 /home/smartsti/public_html/devmind.co.in/wp-load.php(50): require_once('/home/smartsti/...')
+#3 /home/smartsti/public_html/devmind.co.in/wp-blog-header.php(13): require_once('/home/smartsti/...')
+#4 /home/smartsti/public_html/devmind.co.in/index.php(17): require('/home/smartsti/...')
+#5 {main}
+  thrown in /home/smartsti/public_html/devmind.co.in/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[28-Dec-2024 20:58:02 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/smartsti/public_html/devmind.co.in/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 /home/smartsti/public_html/devmind.co.in/wp-settings.php(335): require()
+#1 /home/smartsti/public_html/devmind.co.in/wp-config.php(98): require_once('/home/smartsti/...')
+#2 /home/smartsti/public_html/devmind.co.in/wp-load.php(50): require_once('/home/smartsti/...')
+#3 /home/smartsti/public_html/devmind.co.in/wp-blog-header.php(13): require_once('/home/smartsti/...')
+#4 /home/smartsti/public_html/devmind.co.in/index.php(17): require('/home/smartsti/...')
+#5 {main}
+  thrown in /home/smartsti/public_html/devmind.co.in/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[28-Dec-2024 20:59:05 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/smartsti/public_html/devmind.co.in/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 /home/smartsti/public_html/devmind.co.in/wp-settings.php(335): require()
+#1 /home/smartsti/public_html/devmind.co.in/wp-config.php(98): require_once('/home/smartsti/...')
+#2 /home/smartsti/public_html/devmind.co.in/wp-load.php(50): require_once('/home/smartsti/...')
+#3 /home/smartsti/public_html/devmind.co.in/wp-blog-header.php(13): require_once('/home/smartsti/...')
+#4 /home/smartsti/public_html/devmind.co.in/index.php(17): require('/home/smartsti/...')
+#5 {main}
+  thrown in /home/smartsti/public_html/devmind.co.in/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[28-Dec-2024 21:26:51 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/smartsti/public_html/devmind.co.in/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 /home/smartsti/public_html/devmind.co.in/wp-settings.php(335): require()
+#1 /home/smartsti/public_html/devmind.co.in/wp-config.php(98): require_once('/home/smartsti/...')
+#2 /home/smartsti/public_html/devmind.co.in/wp-load.php(50): require_once('/home/smartsti/...')
+#3 /home/smartsti/public_html/devmind.co.in/wp-blog-header.php(13): require_once('/home/smartsti/...')
+#4 /home/smartsti/public_html/devmind.co.in/index.php(17): require('/home/smartsti/...')
+#5 {main}
+  thrown in /home/smartsti/public_html/devmind.co.in/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[28-Dec-2024 22:16:03 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/smartsti/public_html/devmind.co.in/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 /home/smartsti/public_html/devmind.co.in/wp-settings.php(335): require()
+#1 /home/smartsti/public_html/devmind.co.in/wp-config.php(98): require_once('/home/smartsti/...')
+#2 /home/smartsti/public_html/devmind.co.in/wp-load.php(50): require_once('/home/smartsti/...')
+#3 /home/smartsti/public_html/devmind.co.in/wp-blog-header.php(13): require_once('/home/smartsti/...')
+#4 /home/smartsti/public_html/devmind.co.in/index.php(17): require('/home/smartsti/...')
+#5 {main}
+  thrown in /home/smartsti/public_html/devmind.co.in/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[29-Dec-2024 05:30:51 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/smartsti/public_html/devmind.co.in/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 /home/smartsti/public_html/devmind.co.in/wp-settings.php(335): require()
+#1 /home/smartsti/public_html/devmind.co.in/wp-config.php(98): require_once('/home/smartsti/...')
+#2 /home/smartsti/public_html/devmind.co.in/wp-load.php(50): require_once('/home/smartsti/...')
+#3 /home/smartsti/public_html/devmind.co.in/wp-blog-header.php(13): require_once('/home/smartsti/...')
+#4 /home/smartsti/public_html/devmind.co.in/index.php(17): require('/home/smartsti/...')
+#5 {main}
+  thrown in /home/smartsti/public_html/devmind.co.in/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[29-Dec-2024 05:30:51 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/smartsti/public_html/devmind.co.in/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 /home/smartsti/public_html/devmind.co.in/wp-settings.php(335): require()
+#1 /home/smartsti/public_html/devmind.co.in/wp-config.php(98): require_once('/home/smartsti/...')
+#2 /home/smartsti/public_html/devmind.co.in/wp-load.php(50): require_once('/home/smartsti/...')
+#3 /home/smartsti/public_html/devmind.co.in/wp-blog-header.php(13): require_once('/home/smartsti/...')
+#4 /home/smartsti/public_html/devmind.co.in/index.php(17): require('/home/smartsti/...')
+#5 {main}
+  thrown in /home/smartsti/public_html/devmind.co.in/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[29-Dec-2024 05:33:21 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/smartsti/public_html/devmind.co.in/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 /home/smartsti/public_html/devmind.co.in/wp-settings.php(335): require()
+#1 /home/smartsti/public_html/devmind.co.in/wp-config.php(98): require_once('/home/smartsti/...')
+#2 /home/smartsti/public_html/devmind.co.in/wp-load.php(50): require_once('/home/smartsti/...')
+#3 /home/smartsti/public_html/devmind.co.in/wp-blog-header.php(13): require_once('/home/smartsti/...')
+#4 /home/smartsti/public_html/devmind.co.in/index.php(17): require('/home/smartsti/...')
+#5 {main}
+  thrown in /home/smartsti/public_html/devmind.co.in/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[29-Dec-2024 05:33:21 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/smartsti/public_html/devmind.co.in/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 /home/smartsti/public_html/devmind.co.in/wp-settings.php(335): require()
+#1 /home/smartsti/public_html/devmind.co.in/wp-config.php(98): require_once('/home/smartsti/...')
+#2 /home/smartsti/public_html/devmind.co.in/wp-load.php(50): require_once('/home/smartsti/...')
+#3 /home/smartsti/public_html/devmind.co.in/wp-blog-header.php(13): require_once('/home/smartsti/...')
+#4 /home/smartsti/public_html/devmind.co.in/index.php(17): require('/home/smartsti/...')
+#5 {main}
+  thrown in /home/smartsti/public_html/devmind.co.in/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[29-Dec-2024 05:34:21 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/smartsti/public_html/devmind.co.in/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 /home/smartsti/public_html/devmind.co.in/wp-settings.php(335): require()
+#1 /home/smartsti/public_html/devmind.co.in/wp-config.php(98): require_once('/home/smartsti/...')
+#2 /home/smartsti/public_html/devmind.co.in/wp-load.php(50): require_once('/home/smartsti/...')
+#3 /home/smartsti/public_html/devmind.co.in/wp-blog-header.php(13): require_once('/home/smartsti/...')
+#4 /home/smartsti/public_html/devmind.co.in/index.php(17): require('/home/smartsti/...')
+#5 {main}
+  thrown in /home/smartsti/public_html/devmind.co.in/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[29-Dec-2024 05:34:22 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/smartsti/public_html/devmind.co.in/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 /home/smartsti/public_html/devmind.co.in/wp-settings.php(335): require()
+#1 /home/smartsti/public_html/devmind.co.in/wp-config.php(98): require_once('/home/smartsti/...')
+#2 /home/smartsti/public_html/devmind.co.in/wp-load.php(50): require_once('/home/smartsti/...')
+#3 /home/smartsti/public_html/devmind.co.in/wp-blog-header.php(13): require_once('/home/smartsti/...')
+#4 /home/smartsti/public_html/devmind.co.in/index.php(17): require('/home/smartsti/...')
+#5 {main}
+  thrown in /home/smartsti/public_html/devmind.co.in/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[29-Dec-2024 05:35:22 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/smartsti/public_html/devmind.co.in/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 /home/smartsti/public_html/devmind.co.in/wp-settings.php(335): require()
+#1 /home/smartsti/public_html/devmind.co.in/wp-config.php(98): require_once('/home/smartsti/...')
+#2 /home/smartsti/public_html/devmind.co.in/wp-load.php(50): require_once('/home/smartsti/...')
+#3 /home/smartsti/public_html/devmind.co.in/wp-blog-header.php(13): require_once('/home/smartsti/...')
+#4 /home/smartsti/public_html/devmind.co.in/index.php(17): require('/home/smartsti/...')
+#5 {main}
+  thrown in /home/smartsti/public_html/devmind.co.in/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[29-Dec-2024 05:35:22 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/smartsti/public_html/devmind.co.in/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 /home/smartsti/public_html/devmind.co.in/wp-settings.php(335): require()
+#1 /home/smartsti/public_html/devmind.co.in/wp-config.php(98): require_once('/home/smartsti/...')
+#2 /home/smartsti/public_html/devmind.co.in/wp-load.php(50): require_once('/home/smartsti/...')
+#3 /home/smartsti/public_html/devmind.co.in/wp-blog-header.php(13): require_once('/home/smartsti/...')
+#4 /home/smartsti/public_html/devmind.co.in/index.php(17): require('/home/smartsti/...')
+#5 {main}
+  thrown in /home/smartsti/public_html/devmind.co.in/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[29-Dec-2024 07:09:43 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/smartsti/public_html/devmind.co.in/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 /home/smartsti/public_html/devmind.co.in/wp-settings.php(335): require()
+#1 /home/smartsti/public_html/devmind.co.in/wp-config.php(98): require_once('/home/smartsti/...')
+#2 /home/smartsti/public_html/devmind.co.in/wp-load.php(50): require_once('/home/smartsti/...')
+#3 /home/smartsti/public_html/devmind.co.in/wp-blog-header.php(13): require_once('/home/smartsti/...')
+#4 /home/smartsti/public_html/devmind.co.in/index.php(17): require('/home/smartsti/...')
+#5 {main}
+  thrown in /home/smartsti/public_html/devmind.co.in/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[29-Dec-2024 07:09:43 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/smartsti/public_html/devmind.co.in/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 /home/smartsti/public_html/devmind.co.in/wp-settings.php(335): require()
+#1 /home/smartsti/public_html/devmind.co.in/wp-config.php(98): require_once('/home/smartsti/...')
+#2 /home/smartsti/public_html/devmind.co.in/wp-load.php(50): require_once('/home/smartsti/...')
+#3 /home/smartsti/public_html/devmind.co.in/wp-blog-header.php(13): require_once('/home/smartsti/...')
+#4 /home/smartsti/public_html/devmind.co.in/index.php(17): require('/home/smartsti/...')
+#5 {main}
+  thrown in /home/smartsti/public_html/devmind.co.in/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[29-Dec-2024 07:09:43 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/smartsti/public_html/devmind.co.in/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 /home/smartsti/public_html/devmind.co.in/wp-settings.php(335): require()
+#1 /home/smartsti/public_html/devmind.co.in/wp-config.php(98): require_once('/home/smartsti/...')
+#2 /home/smartsti/public_html/devmind.co.in/wp-load.php(50): require_once('/home/smartsti/...')
+#3 /home/smartsti/public_html/devmind.co.in/wp-blog-header.php(13): require_once('/home/smartsti/...')
+#4 /home/smartsti/public_html/devmind.co.in/index.php(17): require('/home/smartsti/...')
+#5 {main}
+  thrown in /home/smartsti/public_html/devmind.co.in/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[29-Dec-2024 10:53:53 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/smartsti/public_html/devmind.co.in/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 /home/smartsti/public_html/devmind.co.in/wp-settings.php(335): require()
+#1 /home/smartsti/public_html/devmind.co.in/wp-config.php(98): require_once('/home/smartsti/...')
+#2 /home/smartsti/public_html/devmind.co.in/wp-load.php(50): require_once('/home/smartsti/...')
+#3 /home/smartsti/public_html/devmind.co.in/wp-blog-header.php(13): require_once('/home/smartsti/...')
+#4 /home/smartsti/public_html/devmind.co.in/index.php(17): require('/home/smartsti/...')
+#5 {main}
+  thrown in /home/smartsti/public_html/devmind.co.in/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[29-Dec-2024 11:46:04 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/smartsti/public_html/devmind.co.in/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 /home/smartsti/public_html/devmind.co.in/wp-settings.php(335): require()
+#1 /home/smartsti/public_html/devmind.co.in/wp-config.php(98): require_once('/home/smartsti/...')
+#2 /home/smartsti/public_html/devmind.co.in/wp-load.php(50): require_once('/home/smartsti/...')
+#3 /home/smartsti/public_html/devmind.co.in/wp-blog-header.php(13): require_once('/home/smartsti/...')
+#4 /home/smartsti/public_html/devmind.co.in/index.php(17): require('/home/smartsti/...')
+#5 {main}
+  thrown in /home/smartsti/public_html/devmind.co.in/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[29-Dec-2024 13:20:36 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/smartsti/public_html/devmind.co.in/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 /home/smartsti/public_html/devmind.co.in/wp-settings.php(335): require()
+#1 /home/smartsti/public_html/devmind.co.in/wp-config.php(98): require_once('/home/smartsti/...')
+#2 /home/smartsti/public_html/devmind.co.in/wp-load.php(50): require_once('/home/smartsti/...')
+#3 /home/smartsti/public_html/devmind.co.in/wp-blog-header.php(13): require_once('/home/smartsti/...')
+#4 /home/smartsti/public_html/devmind.co.in/index.php(17): require('/home/smartsti/...')
+#5 {main}
+  thrown in /home/smartsti/public_html/devmind.co.in/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[29-Dec-2024 13:21:32 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/smartsti/public_html/devmind.co.in/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 /home/smartsti/public_html/devmind.co.in/wp-settings.php(335): require()
+#1 /home/smartsti/public_html/devmind.co.in/wp-config.php(98): require_once('/home/smartsti/...')
+#2 /home/smartsti/public_html/devmind.co.in/wp-load.php(50): require_once('/home/smartsti/...')
+#3 /home/smartsti/public_html/devmind.co.in/wp-blog-header.php(13): require_once('/home/smartsti/...')
+#4 /home/smartsti/public_html/devmind.co.in/index.php(17): require('/home/smartsti/...')
+#5 {main}
+  thrown in /home/smartsti/public_html/devmind.co.in/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[29-Dec-2024 13:24:23 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/smartsti/public_html/devmind.co.in/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 /home/smartsti/public_html/devmind.co.in/wp-settings.php(335): require()
+#1 /home/smartsti/public_html/devmind.co.in/wp-config.php(98): require_once('/home/smartsti/...')
+#2 /home/smartsti/public_html/devmind.co.in/wp-load.php(50): require_once('/home/smartsti/...')
+#3 /home/smartsti/public_html/devmind.co.in/wp-blog-header.php(13): require_once('/home/smartsti/...')
+#4 /home/smartsti/public_html/devmind.co.in/sapp-wp-signon.php(40): require('/home/smartsti/...')
+#5 {main}
+  thrown in /home/smartsti/public_html/devmind.co.in/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[29-Dec-2024 13:24:47 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/smartsti/public_html/devmind.co.in/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 /home/smartsti/public_html/devmind.co.in/wp-settings.php(335): require()
+#1 /home/smartsti/public_html/devmind.co.in/wp-config.php(98): require_once('/home/smartsti/...')
+#2 /home/smartsti/public_html/devmind.co.in/wp-load.php(50): require_once('/home/smartsti/...')
+#3 /home/smartsti/public_html/devmind.co.in/wp-blog-header.php(13): require_once('/home/smartsti/...')
+#4 /home/smartsti/public_html/devmind.co.in/index.php(17): require('/home/smartsti/...')
+#5 {main}
+  thrown in /home/smartsti/public_html/devmind.co.in/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
